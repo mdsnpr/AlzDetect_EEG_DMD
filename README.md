@@ -1,5 +1,6 @@
 # EEG DMD CNN Alzheimer's Disease Classification
 
-## In Press in Frontiers in Neuroinformatics
+## Published in Frontiers in Neuroinformatics
+### https://doi.org/10.3389/fninf.2025.1706099
 
-## Follow-up study manuscript in preparation, target journal: PLoS One
+## Follow-up study submitted to PLoS ONE
